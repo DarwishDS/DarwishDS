@@ -1,6 +1,6 @@
 # 🌟 Shamil Darwish Thorappa - Artificial Intelligence Developer 🌟
 
-![Profile Banner](https://github.com/DarwishDS/Darwish/blob/main/github-header-image.png)
+![Profile Banner](https://github.com/DarwishDS/DarwishDS/blob/main/github-header-image.png)
 
 Welcome to my GitHub repository! I am Shamil Darwish Thorappa, an Artificial Intelligence Developer with a Master’s in Data Science, specializing in AI, data analytics, automation testing, and data analysis. With experience in NLP, computer vision, and data analytics, I’m dedicated to building innovative solutions that streamline business processes and improve decision-making.
 
