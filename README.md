@@ -1,4 +1,4 @@
-# 🌟 Shamil Darwish Thorappa - Artificial Intelligence Developer 🌟
+# 🌟 Shamil Darwish - Artificial Intelligence Developer 🌟
 
 ![Profile Banner](https://github.com/DarwishDS/DarwishDS/blob/main/github-header-image.png)
 
